@@ -44,16 +44,17 @@ function App() {
       <p>{res}</p>
       <br />
       <hr />
+      
       {/* <input type='date' value={data1} onChange={(e) => setData1(e.target.value)} />
       <input type='date' value={data2} onChange={(e) => setData2(e.target.value)} /> <br />
       
       <button  >show diff</button> <br />
       <p>{console.log(transformDiff(data1))} {console.log(transformDiff(data2))}</p>
-      <p>{console.log(calcDiff(transformDiff(data1), transformDiff(data2)))}</p>
+      <p>{console.log(calcDiff(transformDiff(data1), transformDiff(data2)))}</p>    */}
       
       
 
-    */}
+
 
     </div>
   );
