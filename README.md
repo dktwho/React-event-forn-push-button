@@ -1,3 +1,7 @@
+# Содержание
+
+В инпуты вводятся числа, по нажатию на первую кнопку найдите сумму чисел, а по нажатию на вторую кнопку - произведение
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

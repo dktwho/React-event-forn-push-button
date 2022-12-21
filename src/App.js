@@ -33,6 +33,10 @@ function App() {
       <p>{result}</p>
       <br />
       <hr />
+      <p>В инпуты вводятся числа, по нажатию на первую кнопку найдите сумму чисел, 
+      а по нажатию на вторую кнопку - произведение </p>
+      <br />
+
       <input value={num1} onChange={(e) => setNum1(e.target.value)} />
       <input value={num2} onChange={(e) => setNum2(e.target.value)} /> <br />
       <button onClick={() => setRes(Number(num1) + Number(num2))}>Sum</button>
